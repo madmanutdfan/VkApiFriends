@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">VkApiFriends</string>
+    <string name="login_welcome">Welcome</string>
+    <string name="login_enter">Login</string>
+    <string name="friends_search_hint">Ваши друзья</string>
+    <string name="friends_no_items">У Вас нет друзей</string>
+    <string name="login_error_credentials">Неверные данные для входа</string>
+    <string name="friends_error_loading">Ошибка при загрузке друзей</string>
+    <integer name="com_vk_sdk_AppId">6839978</integer>
+    <string name="txt_id_name"></string>
+</resources>
